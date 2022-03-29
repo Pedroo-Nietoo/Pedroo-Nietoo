@@ -46,5 +46,5 @@
 
 ### 🎓 Curso Técnico
 * Lógica Computacional;
-* Fundamentos de Redes;
-* Fundamentos de Design.
+* Fundamentos de TI;
+* Fundamentos de Redes.
