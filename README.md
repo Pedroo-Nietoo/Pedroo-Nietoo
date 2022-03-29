@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://twitch.tv/fragabr)
 
-[![Pedro Nieto](https://github-readme-stats.vercel.app/api?username=PedrooNieto&theme=tokyonight&show_icons=true)](https://github.com/PedrooNieto/)
+[![Pedro Nieto](https://github-readme-stats.vercel.app/api?username=Pedroo-NietoO&theme=tokyonight&show_icons=true)](https://github.com/Pedroo-Nietoo/)
 
 ### 👨‍💻 Linguagens de Programação (_Em desenvolvimento_)
 
