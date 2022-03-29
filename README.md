@@ -39,7 +39,7 @@
 - Inglês;
 - Espanhol;
 
-### 🖥 Conhecimentos Técnicos
+### 🖥 Ferramentas e Conhecimentos
 - Excel;
 - Git Bash;
 - Visual Studio Code.
