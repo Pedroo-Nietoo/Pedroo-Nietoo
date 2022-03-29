@@ -39,7 +39,7 @@
 - Inglês;
 - Espanhol;
 
-### 🖥 Ferramentas e Conhecimentos
+### ⚙ Ferramentas e Conhecimentos
 - Excel;
 - Git Bash;
 - Visual Studio Code.
