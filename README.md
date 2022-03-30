@@ -1,8 +1,8 @@
 <h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
 <p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
   
-[![Card 1](https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=tokyonight&show_icons=true)](https://github.com/Pedroo-Nietoo/)
-[![Card 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&hide=html&layout=compact&theme=tokyonight)](https://github.com/Pedroo-Nietoo/)
+[![Card 1](https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true)](https://github.com/Pedroo-Nietoo/)
+[![Card 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&hide=html&layout=compact&theme=dracula)](https://github.com/Pedroo-Nietoo/)
 <hr>
 
 ### 👨‍💻 Linguagens de Programação (_Estudando_)
