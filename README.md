@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://twitch.tv/fragabr)
 
 [![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api?username=Pedroo-NietoO&theme=tokyonight&show_icons=true)](https://github.com/Pedroo-Nietoo/)
-[![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/Pedroo-Nietoo/)
+[![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&hide=html&layout=compact&theme=tokyonight)](https://github.com/Pedroo-Nietoo/)
 ### 👨‍💻 Linguagens de Programação (_Em desenvolvimento_)
 
 <div style="display: inline_block">
