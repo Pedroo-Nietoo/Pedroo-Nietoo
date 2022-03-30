@@ -1,5 +1,5 @@
 <h2 align="center"> Olá, eu sou o <i>Pedro Nieto!</i> 👋🏼 </h2>
-<p align="center"> Almejante a desenvolvedor <i>full-stack</i>! </p>
+<p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
