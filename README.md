@@ -7,6 +7,7 @@
 
 [![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api?username=Pedroo-NietoO&theme=tokyonight&show_icons=true)](https://github.com/Pedroo-Nietoo/)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&hide=html&layout=compact&theme=tokyonight)](https://github.com/Pedroo-Nietoo/)
 ### 👨‍💻 Linguagens de Programação (_Em desenvolvimento_)
 
 <div style="display: inline_block">
