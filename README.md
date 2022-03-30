@@ -3,9 +3,10 @@
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://twitch.tv/fragabr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 [![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api?username=Pedroo-NietoO&theme=tokyonight&show_icons=true)](https://github.com/Pedroo-Nietoo/)
+
 [![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&hide=html&layout=compact&theme=tokyonight)](https://github.com/Pedroo-Nietoo/)
 ### 👨‍💻 Linguagens de Programação (_Em desenvolvimento_)
 
@@ -42,4 +43,5 @@
 ### ⚙ Ferramentas e Conhecimentos
 - Excel;
 - Git Bash;
+- GitHub;
 - Visual Studio Code.
