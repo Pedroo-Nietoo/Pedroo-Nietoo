@@ -1,7 +1,7 @@
 <h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
 <p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
 
-<a href="https://github.com/Pedroo-Nietoo/github-readme-stats">
+<a href="https://github.com/Pedroo-Nietoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&icon_color=FFD700" />
 </a>
 <a href="https://github.com/Pedroo-Nietoo">
