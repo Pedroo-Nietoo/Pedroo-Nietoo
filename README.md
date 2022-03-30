@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, eu sou o <i>Pedro Nieto!</i> 👋🏼 </h2>
+<h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
 <p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
 <hr>
 
