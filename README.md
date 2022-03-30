@@ -2,10 +2,10 @@
 <p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
 
 <a href="https://github.com/Pedroo-Nietoo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C,7ED57B&icon_color=FFD700" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&icon_color=FFD700" />
 </a>
 <a href="https://github.com/Pedroo-Nietoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C,7ED57B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937" />
 </a>
 <hr>
 
@@ -23,31 +23,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nieto-645299235/)
  
-### ⚙ Ferramentas e Conhecimentos
-- Figma;
-- GitHub;
-- GitBash;
-- VS Code; 
-- Excel.
-
-### 👀 Meus Gostos
-- Voleibol;
-- Escotismo;
-- Estudar e ler;
-- Sair com amigos.
-
-### 🗺 Línguas
-- Inglês;
-- Espanhol;
-
-### 🤝🏼 Soft Skills
-- Empatia;
-- Liderança;
-- Comunicação;
-- Organização;
-- Curiosidade;
-- Proatividade;
-- Planejamento;
-- Responsabilidade;
-- Trabalho em equipe;
-- Gerenciamento de tempo.
