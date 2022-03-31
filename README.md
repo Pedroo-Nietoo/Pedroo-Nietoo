@@ -3,8 +3,10 @@
 
 <div align="center">
   <a href="https://github.com/Pedroo-Nietoo"</a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&icon_color=FFD700&&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937"/>
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&icon_color=FFD700&&include_all_commits=true&count_private=true)](https://github.com/Pedroo-Nietoo/)
+  
+ [![Pedroo-Nietoo](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937)](https://github.com/Pedroo-Nietoo/)
 </div>
   
 <hr>
