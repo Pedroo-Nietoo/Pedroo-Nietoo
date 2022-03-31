@@ -1,12 +1,12 @@
 <h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
 <p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
 
-<a href="https://github.com/Pedroo-Nietoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&icon_color=FFD700" />
-</a>
-<a href="https://github.com/Pedroo-Nietoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937" />
-</a>
+<div align="center">
+  <a href="https://github.com/Pedroo-Nietoo"</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&icon_color=FFD700"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937"/>
+</div>
+  
 <hr>
 
 ### 👨‍💻 Linguagens de Programação (_Estudando_)
@@ -23,3 +23,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nieto-645299235/)
  
+![Snake animation]https://github.com/Pedroo-Nietoo)
