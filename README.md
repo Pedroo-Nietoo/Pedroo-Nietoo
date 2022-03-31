@@ -23,4 +23,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nieto-645299235/)
  
-![Snake animation]https://github.com/Pedroo-Nietoo)
+![Snake animation](https://github.com/Pedroo-Nietoo)
