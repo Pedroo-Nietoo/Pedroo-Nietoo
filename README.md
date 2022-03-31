@@ -22,12 +22,12 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-00456A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </div>
 <br>
 
-<div align="center">
+<div align="center" target="is_Blank">
   
   ### 📧 Contatos
   
   ![G-mail](https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=white)
-  [![Instagram](https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroonietoo/)
+  [![Instagram](https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/pedroonietoo/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nieto-645299235/)
 </div>
 
