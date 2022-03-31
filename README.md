@@ -26,7 +26,7 @@
   
   ### 📧 Contatos
   
-  ![G-mail](https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=white)
+  [![G-mail](https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=VpCqJTCQHNkkpSZsQtWBFbHpxmqlMGWXdrcfVxFdXGTXFxCvDZjpDwrfBZlmjspcSRTXskV)
   [![Instagram](https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/pedroonietoo/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nieto-645299235/)
 </div>
