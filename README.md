@@ -1,5 +1,5 @@
 <h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
-<p align="center"> Almejo me tornar um desenvolvedor <i>full-stack</i>! </p>
+<p align="center"> Aspirante a desenvolvedor <i>full-stack</i>! </p>
 
 <div align="center">
   <a href="https://github.com/Pedroo-Nietoo"</a>
