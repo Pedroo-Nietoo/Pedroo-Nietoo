@@ -25,15 +25,14 @@
 <div align="center" target="is_Blank">
   
 ### 📧 Contatos
-<a href="https://www.instagram.com/pedroonietoo/">
-  <img src="https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=D14836"/>  </a>
-  <img src="https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  <img src="https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/>
+  <img src="https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  
+  <a href="https://www.instagram.com/pedroonietoo/">
+  <img src="https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  
+  <a href="https://www.linkedin.com/in/pedro-nieto-645299235/">
+  <img src="https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
 </div>
-
-"https://www.google.com"
-"https://www.instagram.com/pedroonietoo/"
-"https://www.linkedin.com/in/pedro-nieto-645299235/"
 
 <div align="center">
   
