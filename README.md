@@ -40,7 +40,3 @@
   ![snake gif](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg)
 </div>
 <hr>
-
-<div align="center">
-FFC07E,FFAA97,FF9BB0,F295C4
-</div>
