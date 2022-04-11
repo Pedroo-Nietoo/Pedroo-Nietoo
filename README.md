@@ -7,8 +7,6 @@
 <a href="https://github.com/Pedroo-Nietoo"/>   
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&icon_color=00D9B5&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&include_all_commits=true&count_private=true"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&langs_count=10&count_private=true"/>
 </div>
 <hr>
 
