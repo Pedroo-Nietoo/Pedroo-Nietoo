@@ -31,14 +31,15 @@
 
 <div align="center" target="_blank">
   
-  ### 📧 Contatos
-    <img src="https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+### 📧 Contatos
+  <img src="https://img.shields.io/badge/Gmail-007789?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 
-    <a href="https://www.instagram.com/pedroonietoo/">
-    <img src="https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://www.instagram.com/pedroonietoo/">
+  <img src="https://img.shields.io/badge/Instagram-007789?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
-    <a href="https://www.linkedin.com/in/pedro-nieto-645299235/">
-    <img src="https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
+  <a href="https://www.linkedin.com/in/pedro-nieto-645299235/">
+  <img src="https://img.shields.io/badge/LinkedIn-007789?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
+  
 </div> <br>
   
   
@@ -47,5 +48,6 @@
   
   ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+  
 </div>
 <hr>
