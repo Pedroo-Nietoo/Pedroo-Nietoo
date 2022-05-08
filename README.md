@@ -32,13 +32,13 @@
 <div align="center" target="_blank">
   
 ### 📧 Contatos
-  <img src="https://img.shields.io/badge/Gmail-1E1F1F?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 
   <a href="https://www.instagram.com/pedroonietoo/">
-  <img src="https://img.shields.io/badge/Instagram-1E1F1F?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
   <a href="https://www.linkedin.com/in/pedro-nieto-645299235/">
-  <img src="https://img.shields.io/badge/LinkedIn-1E1F1F?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
   
 </div> <br> <hr>
 
