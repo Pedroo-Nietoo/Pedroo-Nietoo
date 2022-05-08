@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/pedro-nieto-645299235/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
   
-</div> <br> <hr>
+</div> <hr>
 
 
 
