@@ -29,12 +29,14 @@
 
 
 
-### 📚 Cursos (_Em realização_)
+<div align="center">
+  
+### 📚 Cursos (_Em execução_)
   - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**
   - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(Online/EaD)**
   - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) |**(Online/EaD)**
   - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(Online/EaD)**
-<br>
+</div> <br>
 
 
 
