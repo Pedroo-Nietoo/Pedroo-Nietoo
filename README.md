@@ -15,6 +15,15 @@
 
 
 
+### 📚 Cursos (_Em execução_)
+  - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**
+  - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(Online/EaD)**
+  - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) |**(Online/EaD)**
+  - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(Online/EaD)**
+<br>
+
+
+
 <div align="center">
   
 ### 👨‍💻 Linguagens de Programação (_Estudando_)
@@ -25,17 +34,6 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-</div> <br>
-
-
-
-<div align="center">
-  
-### 📚 Cursos (_Em execução_)
-  - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**
-  - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(Online/EaD)**
-  - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) |**(Online/EaD)**
-  - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(Online/EaD)**
 </div> <br>
 
 
