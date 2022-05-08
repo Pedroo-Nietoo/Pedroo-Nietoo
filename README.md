@@ -54,9 +54,9 @@
 
 
 ### 🗣 Línguas
-- 🥇 Português - Fluente;
-- 🥈 Inglês - Intermediário/Avançado;
-- 🥉 Espanhol - Básico/Intermediário.
+- Português;
+- Inglês;
+- Espanhol.
 
 
 
