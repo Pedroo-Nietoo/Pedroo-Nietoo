@@ -40,5 +40,6 @@
 <div align="center">
   
   ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
 </div>
 <hr>
