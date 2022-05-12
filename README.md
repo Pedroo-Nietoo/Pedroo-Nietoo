@@ -41,7 +41,7 @@
   
 </div> <hr>
 
-
+<img align="right" width="200px" height="200px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f4da.png">
 
 ### 📚 Cursos (_Em execução_)
   - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**;
