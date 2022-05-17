@@ -41,8 +41,6 @@
   
 </div> <hr>
 
-<img align="right" width="170px" height="160px" src="https://images.emojiterra.com/google/android-11/512px/1f4da.png">
-
 ### 📚 Cursos (_Em execução_)
   - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**;
   - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(Online/EaD)**;
