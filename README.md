@@ -20,7 +20,7 @@
 ### 👨‍💻 Linguagens de Programação (_Estudando_)
   
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-22272e?style=for-the-badge&logo=MySQL&logoColor=ED8B00"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=ED8B00"/>
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=D6393E"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-22272e?style=for-the-badge&logo=python&logoColor=306998"/>
   <br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
