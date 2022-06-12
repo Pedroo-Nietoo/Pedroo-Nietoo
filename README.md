@@ -33,13 +33,13 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
   <img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-22272e.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1B6AC6">
   
-  <br><br>
+  <br> <br>
   
 ### 🌺 Ferramentas de Design
   <img alt="Canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC">
   <img alt="Figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
   
-  <br><br>
+  <br> <br>
   
   ### 📧 Contatos
   <img src="https://img.shields.io/badge/Gmail-22272e?style=for-the-badge&logo=gmail&logoColor=D14836"/>
@@ -65,10 +65,10 @@
 - Inglês;
 - Espanhol.
 
+
+
 <div align="center">
   
   ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
-  
-</div>
- <hr>
+</div> <hr>
