@@ -19,20 +19,23 @@
   
 ### 👨‍💻 Linguagens de Programação (_Estudando_)
   
-  <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-22272e?style=for-the-badge&logo=MySQL&logoColor=ED8B00"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=D6393E"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-22272e?style=for-the-badge&logo=python&logoColor=306998"/>
+  <img alt="sql" src="https://img.shields.io/badge/MySQL-22272e?style=for-the-badge&logo=MySQL&logoColor=ED8B00"/>
+  <img alt="java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=D6393E"/>
+  <img alt="python" src="https://img.shields.io/badge/Python-22272e?style=for-the-badge&logo=python&logoColor=306998"/>
   <br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-22272e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div> <br>
-
-
-
-<div align="center" target="_blank">
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-22272e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   
-### 📧 Contatos
+  <br><br>
+  
+### 🌺 Ferramentas de Design
+  <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC">
+  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E)">
+  
+  <br><br>
+  
+  ### 📧 Contatos
   <img src="https://img.shields.io/badge/Gmail-22272e?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 
   <a href="https://www.instagram.com/pedroonietoo/">
@@ -40,8 +43,9 @@
 
   <a href="https://www.linkedin.com/in/pedro-nieto-645299235/">
   <img src="https://img.shields.io/badge/LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=00B2FF"/></a>
-  
-</div> <hr>
+</div> <br> <hr>
+
+
 
 ### 📚 Cursos (_Em execução_)
   - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**;
@@ -50,14 +54,10 @@
   - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(Online/EaD)**.
 <br>
 
-
-
 ### 🗣 Línguas
 - Português;
 - Inglês;
 - Espanhol.
-
-
 
 <div align="center">
   
