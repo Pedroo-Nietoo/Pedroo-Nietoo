@@ -17,7 +17,7 @@
 
 <div align="center">
   
-### 👨‍💻 Programação e IDEs (_Estudando_)
+### 👨‍💻 Linguagens de Programação (_Estudando_)
   
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-22272e?style=for-the-badge&logo=MySQL&logoColor=ED8B00"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=D6393E"/>
@@ -26,10 +26,13 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-22272e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  
   <br><br>
+  
+### 💻 IDEs
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
   <img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-22272e.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1B6AC6">
-
+  
   <br><br>
   
 ### 🌺 Ferramentas de Design
