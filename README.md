@@ -5,9 +5,9 @@
 <div align="center">
 <a href="https://github.com/Pedroo-Nietoo"/>   
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&icon_color=&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&border_radius=10%&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&langs_count=5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&border_radius=10%&locale=pt-br&layout=compact&langs_count=5"/>
 </div> <br>
 
 
@@ -33,7 +33,7 @@
   <img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
   
   <a href="https://www.arduino.cc/">
-  <img src="https://img.shields.io/badge/Arduino_IDE-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
   
   <br> <br>
   
@@ -49,9 +49,9 @@
 
 ### 📚 Cursos (_Em execução_)
   - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**;
-  - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(Online/EaD)**;
-  - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) | **(Online/EaD)**;
-  - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(Online/EaD)**.
+  - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(EaD)**;
+  - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) | **(EaD)**;
+  - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(EaD)**.
 
 ### 🗣 Línguas
   - Português;
