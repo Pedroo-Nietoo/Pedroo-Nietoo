@@ -27,16 +27,21 @@
   <br><br>
   
 ### 💻 IDEs
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
-  <img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6">
-  <img src="https://img.shields.io/badge/Arduino_IDE-22272e?style=for-the-badge&logo=arduino&logoColor=00979D">
+  <a href="https://code.visualstudio.com/">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"></a>
+  
+  <a href="https://netbeans.apache.org/">
+  <img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
+  
+  <a href="https://www.arduino.cc/">
+  <img src="https://img.shields.io/badge/Arduino_IDE-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
   
   <br> <br>
   
 ### 🌺 Ferramentas de Design
   <img alt="Canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC">
   <img alt="Figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
-</div> <br> <hr>
+</div> <hr>
 
 
 
