@@ -15,7 +15,6 @@
 <div align="center">
   
 ### 👨‍💻 Linguagens de Programação (_Estudando_)
-  <a href="https://github.com/Pedroo-Nietoo">
   <img alt="Java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=D6393E"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-22272e?style=for-the-badge&logo=python&logoColor=306998"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-22272e?style=for-the-badge&logo=MySQL&logoColor=F29111"/>
@@ -23,7 +22,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-22272e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </a>
   
   <br><br>
   
