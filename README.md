@@ -1,13 +1,11 @@
 <h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
 
-
-
 <div align="center">
-<a href="https://github.com/Pedroo-Nietoo"/>   
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&border_radius=10%&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Pedroo-Nietoo"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&border_radius=10%&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&border_radius=10%&locale=pt-br&layout=compact&langs_count=6"/>
+<a href="https://github.com/Pedroo-Nietoo"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&border_radius=10%&locale=pt-br&layout=compact&langs_count=6"/></a>
 </div> <br>
 
 
