@@ -33,7 +33,7 @@
   <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
   
   <a href="https://www.arduino.cc/">
-  <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
+  <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
   
   <br> <br>
   
