@@ -28,7 +28,7 @@
   <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"></a>
   
   <a href="https://netbeans.apache.org/">
-  <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
+  <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
   
   <a href="https://www.arduino.cc/">
   <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
