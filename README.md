@@ -1,7 +1,4 @@
-<div align="center">
-<h2> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
-<p> Aspirante a desenvolvedor <i>full-stack</i>! </p>
-</div> 
+<h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
 
 
 
@@ -57,9 +54,9 @@
 <br>
 
 ### 🗣 Línguas
-- Português;
-- Inglês;
-- Espanhol.
+  - Português;
+  - Inglês;
+  - Espanhol.
 
 
 
