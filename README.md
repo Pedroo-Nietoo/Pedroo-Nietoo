@@ -36,12 +36,6 @@
 ### 🌺 Ferramentas de Design
   <img alt="Canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC">
   <img alt="Figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
-  
-  <br> <br>
-  
-### 📧 Contatos
-  <a href="https://linktr.ee/pedroonietoo">
-  <img src="https://img.shields.io/badge/linktree-22272e?style=for-the-badge&logo=linktree&logoColor=1de9b6"/></a>
 </div> <br> <hr>
 
 
@@ -57,10 +51,17 @@
   - Inglês;
   - Espanhol.
 
+<div align="center">
+  
+<h3> 📧 Contatos </h3>
+  <a href="https://linktr.ee/pedroonietoo">
+  <img src="https://img.shields.io/badge/linktree-22272e?style=for-the-badge&logo=linktree&logoColor=1de9b6"/></a>
+</div> <br> <br>
+
 
 
 <div align="center">
   
-  ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-  ![Cobrinha dos Commits](https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+  <img alt="cobrinha dos commits" align="center" src="https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
+  <img alt="cobrinha dos commits" align="center" src="https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only">
 </div> <hr>
