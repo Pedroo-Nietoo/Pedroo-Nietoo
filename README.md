@@ -48,10 +48,13 @@
   
 ### 📦 Pacote Office
   <a href="https://www.office.com/">
-  <img height="30em" alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-22272e?style=for-the-badge&logo=microsoft-powerpoint&logoColor=B7472A"/>
-  <img height="30em" alt="Excel" src="https://img.shields.io/badge/Excel-22272e?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
-  <img height="30em" alt="Word" src="https://img.shields.io/badge/Word-22272e?style=for-the-badge&logo=microsoft-word&logoColor=2B579A"/>
-  </a>
+  <img height="30em" alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-22272e?style=for-the-badge&logo=microsoft-powerpoint&logoColor=B7472A"/></a>
+  
+  <a href="https://www.office.com/">
+  <img height="30em" alt="Excel" src="https://img.shields.io/badge/Excel-22272e?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/></a>
+  
+  <a href="https://www.office.com/">
+  <img height="30em" alt="Word" src="https://img.shields.io/badge/Word-22272e?style=for-the-badge&logo=microsoft-word&logoColor=2B579A"/></a>
   
 </div> <hr>
 
