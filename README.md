@@ -6,6 +6,7 @@
 <a href="https://github.com/Pedroo-Nietoo"/>   
   
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo
+                         https://github.com/anuraghazra/github-readme-stats#github-stats-card
                          &theme=dracula
                          &show_icons=true
                          &locale=pt-br
