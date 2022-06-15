@@ -36,11 +36,11 @@
   <br> <br>
   
 ### 🌺 Ferramentas de Design
-  <a href="https://www.canva.com/">
-  <img height="30em" alt="Canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC"></a>
-  
   <a href="https://www.figma.com/">
   <img height="30em" alt="Figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E"></a>
+  
+  <a href="https://www.canva.com/">
+  <img height="30em" alt="Canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC"></a>
   
   <br> <br>
   
