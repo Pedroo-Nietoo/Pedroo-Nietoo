@@ -73,6 +73,8 @@
   
   <img alt="Repositório-Cdóigos Java" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Codigos-Java&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&border_radius=10%&locale=pt-br&show_owner=true"/>
   
+  <img alt="Repositório-Projetos" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Codigos-Java&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&border_radius=10%&locale=pt-br&show_owner=true"/>
+  
 <h3> 📧 Contatos </h3>
   <a href="https://linktr.ee/pedroonietoo">
   <img height="40em" src="https://img.shields.io/badge/linktree-22272e?style=for-the-badge&logo=linktree&logoColor=1de9b6"/></a>
