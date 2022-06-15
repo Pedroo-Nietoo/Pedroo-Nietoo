@@ -72,7 +72,7 @@
 <div align="center">
   
 <h3> 📧 Contatos </h3>
-  <a href="https://linktr.ee/pedroonietoo" target="_blank">
+  <a href="https://linktr.ee/pedroonietoo">
   <img height="40em" src="https://img.shields.io/badge/linktree-22272e?style=for-the-badge&logo=linktree&logoColor=1de9b6"/></a>
 </div> <br> <br>
 
