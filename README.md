@@ -23,7 +23,7 @@
   
   <br><br>
   
-### 💻 IDEs e Terminais
+### ⌨ IDEs
   <a href="https://code.visualstudio.com/">
   <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"></a>
   
@@ -32,11 +32,15 @@
   
   <a href="https://www.arduino.cc/">
   <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
+ 
+  <br><br>
   
+### 💻 SOs e Terminais
+  <img height="30em" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-22272e?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+  <img height="30em" alt="Windows" src="https://img.shields.io/badge/Windows-22272e?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <br>
-  
   <img height="30em" alt="Git" src="https://img.shields.io/badge/GIT-22272e?style=for-the-badge&logo=git&logoColor=E44C30"/>
-  <img height="30em" alt="Linux" src="https://img.shields.io/badge/Linux-22272e?style=for-the-badge&logo=linux&logoColor=E44C30"/>
+  <img height="30em" alt="Linux" src="https://img.shields.io/badge/Linux-22272e?style=for-the-badge&logo=linux&logoColor=white"/>
   
   <br> <br>
   
