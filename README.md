@@ -67,7 +67,7 @@
 
 
 
-### 📚 Cursos (_Em execução_)
+### 📚 Cursos (_Em execução e que irei realizar_)
   - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**;
   - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(EaD)**;
   - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) | **(EaD)**;
