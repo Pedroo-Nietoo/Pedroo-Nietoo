@@ -35,15 +35,6 @@
  
   <br><br>
   
-### 💻 SOs e Terminais
-  <img height="30em" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-22272e?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-  <img height="30em" alt="Windows" src="https://img.shields.io/badge/Windows-22272e?style=for-the-badge&logo=windows&logoColor=0078D6"/>
-  <br>
-  <img height="30em" alt="Git" src="https://img.shields.io/badge/GIT-22272e?style=for-the-badge&logo=git&logoColor=E44C30"/>
-  <img height="30em" alt="Linux" src="https://img.shields.io/badge/Linux-22272e?style=for-the-badge&logo=linux&logoColor=white"/>
-  
-  <br> <br>
-  
 ### 🌺 Ferramentas de Design
   <a href="https://www.figma.com/">
   <img height="30em" alt="Figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E"></a>
