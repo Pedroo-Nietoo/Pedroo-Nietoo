@@ -81,7 +81,8 @@
 
 
 <div align="center">
-  
+  <hr>
+  <h3> Cobrinha dos Commits 🐍 </h3>
   <img alt="cobrinha dos commits" align="center" src="https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
   <img alt="cobrinha dos commits" align="center" src="https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only">
 </div> <hr>
