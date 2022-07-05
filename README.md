@@ -75,7 +75,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303d52,22272e&border_color=22272e&border_radius=10%"></a>
 </div>
 
-<br> <br>
+<br> <br> <br>
 
 <div align="center">  
 <h3> 📧 Contatos </h3>
