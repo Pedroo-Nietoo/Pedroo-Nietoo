@@ -70,22 +70,15 @@
   - Português;
   - Inglês;
   - Espanhol.
-  
+
 <div align="right"> <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303d52,22272e&border_color=22272e&border_radius=10%"></a>
 </div>
 
-<br> <br> <br>
+<br> <br> <hr>
 
 <div align="center">  
 <h3> 📧 Contatos </h3>
   <a href="https://linktr.ee/pedroonietoo">
   <img height="40em" src="https://img.shields.io/badge/linktree-22272e?style=for-the-badge&logo=linktree&logoColor=1de9b6"/></a>
 </div>
-
-
-
-<div align="center">
-  <img alt="cobrinha dos commits" align="center" src="https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-  <img alt="cobrinha dos commits" align="center" src="https://github.com/Pedroo-Nietoo/Pedroo-Nietoo/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only">
-</div> <hr>
