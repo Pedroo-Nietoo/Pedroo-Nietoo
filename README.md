@@ -73,9 +73,6 @@
 
 <br> <br>
 
-<div align="left"> <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=FotoComOJackson&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,22272e,303d52,00456A&border_color=22272e&border_radius=10%"></a>
-</div>
 
 <div align="right"> <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303d52,22272e&border_color=22272e&border_radius=10%"></a>
