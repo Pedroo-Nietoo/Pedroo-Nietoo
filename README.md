@@ -1,5 +1,8 @@
-<h2 align="center"> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
-<h4 align="center"> Tema do perfil: Dark dimmed </p>
+<div align="center">
+<h2> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
+<sup> Tema do perfil: <i>Dark dimmed</i> </sup>
+</div>
+
 <br>
 
 <div align="center">
