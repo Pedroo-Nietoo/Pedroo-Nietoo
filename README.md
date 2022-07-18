@@ -5,61 +5,50 @@
 
 <br>
 
-<div align="center">
+<div linguagens align="center">
 <a href="https://github.com/Pedroo-Nietoo"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&border_radius=10%&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&custom_title=Linguagens de programação&bg_color=DEG,22272E,00A88C,007789,00456A,22272E&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/></a>
+</div> 
 
-<a href="https://github.com/Pedroo-Nietoo"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/></a>
-</div> <br>
+<br>
 
+<div habilidades align="center">
 
-
-<div align="center">
-  
-### 👨‍💻 Linguagens de Programação (_Estudando_)
-  <img height="30em" alt="MySQL" src="https://img.shields.io/badge/MySQL-22272e?style=for-the-badge&logo=MySQL&logoColor=F29111"/>
-  <img height="30em" alt="C++" src="https://img.shields.io/badge/C%2B%2B-22272e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
-  <img height="30em" alt="Java" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=D6393E"/>
-  <br>
-  <img height="30em" alt="HTML5" src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img height="30em" alt="CSS3" src="https://img.shields.io/badge/CSS3-22272e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img height="30em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  
-  <br><br>
-  
-### 🖥 IDEs
+<h3> 🖥 IDEs </h3>
   <a href="https://code.visualstudio.com/">
-  <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"></a>
+  <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-22272E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7"></a>
   
   <a href="https://netbeans.apache.org/">
-  <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans-22272e?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
+  <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans-22272E?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6"></a>
   
   <a href="https://www.arduino.cc/">
-  <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-22272e?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
+  <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-22272E?style=for-the-badge&logo=arduino&logoColor=00979D"></a>
  
-  <br><br>
+  <br> <br>
   
-### 🌺 Ferramentas de Design
+<h3> 🌺 Ferramentas de Design </h3>
   <a href="https://www.figma.com/">
-  <img height="30em" alt="Figma" src="https://img.shields.io/badge/figma-22272e.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E"></a>
+  <img height="30em" alt="Figma" src="https://img.shields.io/badge/figma-22272E.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E"></a>
   
   <a href="https://www.canva.com/">
-  <img height="30em" alt="Canva" src="https://img.shields.io/badge/Canva-22272e.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC"></a>
+  <img height="30em" alt="Canva" src="https://img.shields.io/badge/Canva-22272E.svg?style=for-the-badge&logo=Canva&logoColor=2300C4CC"></a>
   
   <br> <br>
   
-### 📦 Pacote Office
+<h3> 📦 Pacote Office </h3>
   <a href="https://www.office.com/">
-  <img height="30em" alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-22272e?style=for-the-badge&logo=microsoft-powerpoint&logoColor=B7472A"/></a>
+  <img height="30em" alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-22272E?style=for-the-badge&logo=microsoft-powerpoint&logoColor=B7472A"/></a>
   
   <a href="https://www.office.com/">
-  <img height="30em" alt="Excel" src="https://img.shields.io/badge/Excel-22272e?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/></a>
+  <img height="30em" alt="Excel" src="https://img.shields.io/badge/Excel-22272E?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/></a>
   
   <a href="https://www.office.com/">
-  <img height="30em" alt="Word" src="https://img.shields.io/badge/Word-22272e?style=for-the-badge&logo=microsoft-word&logoColor=2B579A"/></a>
-  
-</div> <hr>
+  <img height="30em" alt="Word" src="https://img.shields.io/badge/Word-22272E?style=for-the-badge&logo=microsoft-word&logoColor=2B579A"/></a>
+</div> 
+
+
+
+<hr>
 
 
 
@@ -76,15 +65,47 @@
 
 <br> <br>
 
+<div repositórios align="right">
 
-<div align="right"> <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303d52,22272e&border_color=22272e&border_radius=10%"></a>
+<a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+</a> 
+
+<br>
+
+<a href="https://github.com/Pedroo-Nietoo/Java">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Java&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=B07219&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+</a>
+
+<br>
+
+<a href="https://github.com/Pedroo-Nietoo/Shell-Script">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Shell-Script&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=89E051&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+</a>
+</div>
+
+<div align="left">
+<a href="https://github.com/Pedroo-Nietoo/C-Plus-Plus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=C-Plus-Plus&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=F34B7D&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
+</a>
+
+<br>
+
+<a href="https://github.com/Pedroo-Nietoo/Python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=HTML-CSS-JS&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=E34C26&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
+</a>
+
+<br>
+
+<a href="https://github.com/Pedroo-Nietoo/Python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Python&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=3572A5&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
+</a>
 </div>
 
 <br> <br> <hr>
 
-<div align="center">  
+<div contatos align="center">  
 <h3> 📧 Contatos </h3>
   <a href="https://linktr.ee/pedroonietoo">
-  <img height="40em" src="https://img.shields.io/badge/linktree-22272e?style=for-the-badge&logo=linktree&logoColor=1de9b6"/></a>
+  <img height="40em" src="https://img.shields.io/badge/linktree-22272E?style=for-the-badge&logo=linktree&logoColor=1DE9B6"/></a>
 </div>
