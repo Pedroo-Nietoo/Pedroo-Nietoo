@@ -7,7 +7,7 @@
 
 <div linguagens align="center">
 <a href="https://github.com/Pedroo-Nietoo"/>
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&custom_title=Linguagens de programação&bg_color=DEG,22272E,00456A,007789,00A88C,22272E&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/></a>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&custom_title=Linguagens de programação&bg_color=DEG,22272E,00456A,007789,22272E&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/></a>
 </div> 
 
 <br>
