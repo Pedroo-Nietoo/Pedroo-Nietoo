@@ -68,37 +68,37 @@
 <div repositórios align="right">
 
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dark&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
 </a> 
 
 <br>
 
 <a href="https://github.com/Pedroo-Nietoo/Java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Java&theme=dark&title_color=FFFFFF&text__color=FFFFFF&icon_color=B07219&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Java&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=B07219&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
 </a>
 
 <br>
 
 <a href="https://github.com/Pedroo-Nietoo/Shell-Script">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Shell-Script&theme=dark&title_color=FFFFFF&text__color=FFFFFF&icon_color=89E051&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Shell-Script&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=89E051&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
 </a>
 </div>
 
 <div align="left">
 <a href="https://github.com/Pedroo-Nietoo/C-Plus-Plus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=C-Plus-Plus&theme=dark&title_color=FFFFFF&text__color=FFFFFF&icon_color=F34B7D&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=C-Plus-Plus&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=F34B7D&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
 </a>
 
 <br>
 
 <a href="https://github.com/Pedroo-Nietoo/Python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=HTML-CSS-JS&theme=dark&title_color=FFFFFF&text__color=FFFFFF&icon_color=E34C26&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=HTML-CSS-JS&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=E34C26&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
 </a>
 
 <br>
 
 <a href="https://github.com/Pedroo-Nietoo/Python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Python&theme=dark&title_color=FFFFFF&text__color=FFFFFF&icon_color=3572A5&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Python&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=3572A5&bg_color=DEG,22272E,303D52,00456A&border_color=22272E&border_radius=10%">
 </a>
 </div>
 
