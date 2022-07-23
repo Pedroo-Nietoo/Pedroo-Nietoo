@@ -53,10 +53,12 @@
 
 
 ### 📚 Cursos (_Em execução e que irei realizar_)
-  - [X] Desenvolvimento de Sistemas | **(Curso Técnico - Presencial)**;
   - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(EaD)**;
   - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) | **(EaD)**;
-  - [ ] Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos | **(EaD)**.
+  - [ ] Curso de JavaScript e TypeScript do básico ao avançado 2022 | **(EaD)**;
+  - [ ] Curso de React.Js e Next.Js (Intermediário e Avançado) | **(EaD)**;
+  - [ ] Curso de GraphQL e Apollo Server + Apollo Client | **(EaD)**.
+  
 
 ### 🗣 Línguas
   - Português;
