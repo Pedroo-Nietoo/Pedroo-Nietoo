@@ -53,24 +53,9 @@
 
 
 
-<hr>
+<br> <br> <br>
 
 
-
-### 📚 Cursos (_Em execução e que irei realizar_)
-  - [X] Excel Básico Avançado 5 Cursos - Formação Especialista | **(EaD)**;
-  - [X] Curso de JavaScript e TypeScript do básico ao avançado 2022 | **(EaD)**;
-  - [ ] Curso de React.Js e Next.Js (Intermediário e Avançado) | **(EaD)**;
-  - [ ] Curso de Python 3 do Básico Ao Avançado (com projetos reais) | **(EaD)**;
-  - [ ] Curso de GraphQL e Apollo Server + Apollo Client | **(EaD)**.
-  
-
-### 🗣 Línguas
-  - Português;
-  - Inglês;
-  - Espanhol.
-
-<br> <br>
 
 <div repositórios align="right">
 
