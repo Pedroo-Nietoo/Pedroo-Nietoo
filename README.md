@@ -7,9 +7,9 @@
 
 <div linguagens align="center">
 <a href="https://github.com/Pedroo-Nietoo"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&custom_title=Minhas linguagens de programação&bg_color=DEG,3172C8,00456A,22272E&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/></a>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&custom_title=Minhas linguagens de programação&bg_color=DEG,3172C8,00456A,22272E&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/></a>
 
-<img height="150em" src="https://user-images.githubusercontent.com/102625628/180663992-f064d156-c2e7-4f38-a35c-aa2d5697a763.png"/>
+<img height="190em" src="https://user-images.githubusercontent.com/102625628/180663992-f064d156-c2e7-4f38-a35c-aa2d5697a763.png"/>
 </div>
 
 
