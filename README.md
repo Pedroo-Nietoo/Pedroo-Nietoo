@@ -70,7 +70,7 @@
 <div repositórios align="right">
 
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,303D52,22272E&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00456A,22272E&border_color=22272E&border_radius=10%">
 </a> 
 </div>
 
