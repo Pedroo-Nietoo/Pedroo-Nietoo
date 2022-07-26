@@ -49,12 +49,11 @@
 
 
 
-<br> <br> <br>
+<br> <br>
 
 
 
 <div repositórios align="right">
-
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3172C8,22272E&border_color=22272E&border_radius=10%">
 </a> 
