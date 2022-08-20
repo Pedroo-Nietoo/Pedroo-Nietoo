@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/102625628/185766489-0271e33f-e445-46dd-8739-248a48f89bfc.gif"/>
+<img alt="Banner" align="center" src="https://user-images.githubusercontent.com/102625628/185766489-0271e33f-e445-46dd-8739-248a48f89bfc.gif"/>
 
 <div align="center">
 
-<img height="250em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=3172C8&border_color=FFFFFF&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
+<img height="250em" align="left" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,3172C8,646DC0&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
 
 <img height="250" src="https://user-images.githubusercontent.com/102625628/180663992-f064d156-c2e7-4f38-a35c-aa2d5697a763.png"/>
 </div>
@@ -53,12 +53,4 @@
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3172C8,22272E&border_color=22272E&border_radius=10%">
 </a> 
-</div>
-
-<br> <br> <hr>
-
-<div contatos align="center">  
-<h3> 📧 Contatos </h3>
-  <a href="https://linktr.ee/pedroonietoo">
-  <img height="40em" src="https://img.shields.io/badge/linktree-22272E?style=for-the-badge&logo=linktree&logoColor=1DE9B6"/></a>
 </div>
