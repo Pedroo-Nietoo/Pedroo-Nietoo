@@ -1,9 +1,4 @@
-<div align="center">
-<h2> Olá, eu sou o <i>Pedro Nieto</i>! 👋🏼 </h2>
-<sup> Tema do perfil: <i>Dark dimmed</i> </sup>
-</div>
-
-<br>
+<img src="https://user-images.githubusercontent.com/102625628/185764752-45fd37d1-64e9-4979-b30e-bb3180fb0b2e.png"/>
 
 <div align="center">
 
