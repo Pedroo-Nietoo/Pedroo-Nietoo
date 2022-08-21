@@ -1,5 +1,5 @@
 <img alt="Banner" align="center" src="https://user-images.githubusercontent.com/102625628/185769164-7dffe200-828f-46aa-a876-872a3324f6de.gif"/>
-
+<br> <br>
 <div align="center">
 
 <img height="250em" align="left" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,3172C8,009AE0&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
