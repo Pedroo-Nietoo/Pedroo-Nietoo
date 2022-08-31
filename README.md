@@ -1,13 +1,15 @@
-<img alt="Banner" align="center" src="https://user-images.githubusercontent.com/102625628/185769164-7dffe200-828f-46aa-a876-872a3324f6de.gif"/>
-
 <div align="center">
+<img alt="Banner" src="https://user-images.githubusercontent.com/102625628/185769164-7dffe200-828f-46aa-a876-872a3324f6de.gif"/>
 
-<img height="250em" align="left" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,3172C8,009AE0&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
+<br>
+<br>
 
-<img height="250em" src="https://user-images.githubusercontent.com/102625628/180663992-f064d156-c2e7-4f38-a35c-aa2d5697a763.png"/>
+<img height="250em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,3172C8,009AE0&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
 </div>
 
-<br> <br>
+<hr>
+<br>
+<br>
 
 <div habilidades align="center">
 <details>
@@ -21,7 +23,7 @@
 </details>
 
 <details>
-  <summary><h3> 🌺 Ferramentas de Design </h3></summary>
+  <summary><h3> 🌺 Design </h3></summary>
     <a href="https://www.figma.com/">
     <img height="30em" alt="Figma" src="https://img.shields.io/badge/figma-22272E.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E"/></a>
     <a href="https://www.canva.com/">
@@ -41,8 +43,8 @@
 
 <br> <br>
 
-<div repositórios align="right">
+<div repositórios align="center">
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3172C8,22272E&border_color=22272E&border_radius=10%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,22272E&border_color=22272E&border_radius=10%">
 </a> 
 </div>
