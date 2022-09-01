@@ -5,6 +5,11 @@
 <br>
 
 <img height="250em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009AE0,3172C8&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
+
+<br>
+<br>
+
+<sub>Tema do perfil: Dark dimmed</sub>
 </div>
 
 <hr>
