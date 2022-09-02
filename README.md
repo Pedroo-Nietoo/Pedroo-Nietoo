@@ -19,7 +19,7 @@
 <div habilidades align="center">
 <details>
   <summary><h3> 🖥 IDEs </h3></summary>
-    <a href="https://colab.research.google.com/">
+    <a href="https://colab.research.google.com"/>
     <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=22272E""/></a>
     
     <a href="https://netbeans.apache.org/">
