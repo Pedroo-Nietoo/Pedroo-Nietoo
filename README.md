@@ -4,9 +4,9 @@
 <br>
 <br>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=3172C8&border_color=22272E&border_radius=10%&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=3172C8&border_color=22272E&border_radius=10%&locale=pt-br"/>
   
-<img height="200em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=3172C8&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
+<img height="180em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=3172C8&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
 
 <br>
 <br>
