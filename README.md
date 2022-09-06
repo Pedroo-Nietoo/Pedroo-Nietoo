@@ -1,10 +1,12 @@
 <div align="center">
-<img alt="Banner" src="https://user-images.githubusercontent.com/102625628/185769164-7dffe200-828f-46aa-a876-872a3324f6de.gif"/>
+<img alt="Banner" src="https://user-images.githubusercontent.com/102625628/188719579-cb18f92f-eb61-4318-b036-caa7f47aacb8.gif"/>
 
 <br>
 <br>
 
-<img height="250em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,009AE0&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=3172C8&border_color=22272E&border_radius=10%&locale=pt-br"/>
+  
+<img height="200em" alt="Minhas linguagens de programação!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=3172C8&border_color=22272E&border_radius=10%&locale=pt-br&layout=compact&langs_count=8"/>
 
 <br>
 <br>
