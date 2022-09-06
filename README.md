@@ -54,9 +54,9 @@
 
 <div repositórios align="center">
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img  align="right" alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5&hide_border=true&border_radius=10%">
+<img alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5&hide_border=true&border_radius=10%">
 
 <a href="https://github.com/Pedroo-Nietoo/Java">
-<img  align="right" alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Java&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,00BCD5,009AE0,3172C8,2832B2&hide_border=true&border_radius=10%">
+<img alt="Repositório Java" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Java&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,00BCD5,009AE0,3172C8,2832B2&hide_border=true&border_radius=10%">
 </a> 
 </div>
