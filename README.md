@@ -2,7 +2,6 @@
 <a href="https://linktr.ee/pedroonietoo"/>
 <img alt="Banner" src="https://user-images.githubusercontent.com/102625628/188755512-b8969be6-8f7b-4bee-9714-0031932f1589.gif"/>
 </a>
-<img src="https://rishavanand.github.io/static/images/greetings.gif"/>
 
 <br>
 <br>
