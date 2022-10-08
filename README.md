@@ -54,5 +54,5 @@
 
 <div repositórios align="center">
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5,00CECD,40DEB9,7EEB9F,BBF484,F9F871&hide_border=true&border_radius=10%">
+<img alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5,00CECD,40DEB9,7EEB9F&hide_border=true&border_radius=10%">
 </div>
