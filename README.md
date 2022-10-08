@@ -49,10 +49,3 @@
     <img height="30em" alt="Word" src="https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=2B579A"/></a>
 </details>
 </div> 
-
-<br>
-
-<div repositórios align="center">
-<a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5,00CECD,40DEB9,7EEB9F&hide_border=true&border_radius=10%">
-</div>
