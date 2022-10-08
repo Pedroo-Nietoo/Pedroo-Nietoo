@@ -4,6 +4,7 @@
 </a>
 
 <br>
+<br>
 
 <a href="https://linktr.ee/pedroonietoo"/>
 <img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=3377D1&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
@@ -17,6 +18,7 @@
 </div>
 
 <hr>
+<br>
 
 <div habilidades align="center">
 <details>
