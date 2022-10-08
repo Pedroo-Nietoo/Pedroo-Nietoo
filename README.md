@@ -4,30 +4,27 @@
 </a>
 
 <br>
-<br>
 
 <a href="https://linktr.ee/pedroonietoo"/>
 <img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,009AE0,3172C8&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
 <img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,009AE0&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 </a>
-<br>
+
 <br>
 
 <sub>Tema do perfil: Dark default</sub>
 </div>
 
 <hr>
-<br>
-<br>
 
 <div habilidades align="center">
 <details>
   <summary><h3> 🖥 IDEs </h3></summary>
     <a href="https://colab.research.google.com"/>
-    <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117""/></a> 
+    <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117""/></a>
     <a href="https://netbeans.apache.org/">
-    <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6/"></a>
+    <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans%208.2-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6/"></a>
     <a href="https://code.visualstudio.com/">
     <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7"/></a>
     <a href="https://www.arduino.cc/">
@@ -53,7 +50,7 @@
 </details>
 </div> 
 
-<br> <br>
+<br>
 
 <div repositórios align="center">
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
