@@ -17,8 +17,8 @@
 <sub>Tema do perfil: Dark default</sub>
 </div>
 
-<hr>
 <br>
+<hr>
 
 <div habilidades align="center">
 <details>
