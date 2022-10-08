@@ -6,9 +6,9 @@
 <br>
 
 <a href="https://linktr.ee/pedroonietoo"/>
-<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,009AE0,3172C8&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=3377D1&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
-<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3172C8,009AE0&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=3377D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 </a>
 
 <br>
@@ -54,5 +54,5 @@
 
 <div repositórios align="center">
 <a href="https://github.com/Pedroo-Nietoo/Portfolio-SENAI">
-<img alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5&hide_border=true&border_radius=10%">
+<img alt="Portfólio-SENAI" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedroo-Nietoo&repo=Portfolio-SENAI&theme=dracula&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,2832B2,3172C8,009AE0,00BCD5,00CECD,40DEB9,7EEB9F,BBF484,F9F871&hide_border=true&border_radius=10%">
 </div>
