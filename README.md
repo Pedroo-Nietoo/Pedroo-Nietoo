@@ -4,12 +4,11 @@
 </a>
 
 <br>
-<br>
 
 <a href="https://linktr.ee/pedroonietoo"/>
-<img height="180em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3377D1,009EE7&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3377D1,009EE7&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
-<img height="180em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009EE7,3377D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009EE7,3377D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 </a>
 
 <br>
@@ -17,18 +16,27 @@
 <sub>Tema do perfil: Dark default</sub>
 </div>
 
-<br>
-<hr>
+##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
-</div>
 
-<div habilidades align="center">
+
+<div align="center">
+<details>
+  <summary><h3> 👨‍💻 Conhecimentos </h3></summary>
+    Estudando
+    <div style="display: block"><br>
+      <img alt="Java" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <br><br>
+      <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <br><br>
+      <img alt="C++" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+      <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="Bash" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  </div>
+</details>
+
 <details>
   <summary><h3> 🖥 IDEs </h3></summary>
     <a href="https://colab.research.google.com"/>
