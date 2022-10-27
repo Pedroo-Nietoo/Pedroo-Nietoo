@@ -48,12 +48,12 @@
   </summary>
   <div style="display: block">
       <a href="https://colab.research.google.com"/>
-      <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117"/>
+      <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117"/>
       </a>
       <a href="https://netbeans.apache.org/">
       <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans%208.2-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6/">         </a>
       <a href="https://code.visualstudio.com/">
-      <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7"/>         </a>
+      <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7"/>         </a>
       <a href="https://www.arduino.cc/">
       <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
       </a>
@@ -95,3 +95,6 @@
   </div>
 </details>
 </div>
+
+<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg#gh-dark-mode-only"/>
+<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg#gh-light-mode-only"/>
