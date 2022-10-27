@@ -26,15 +26,15 @@
   <summary><h3> 👨‍💻 Conhecimentos </h3></summary>
     Estudando
     <div style="display: block"><br>
-      <img alt="Java" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img alt="Java" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
       <br><br>
-      <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+      <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+      <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
       <br><br>
-      <img alt="C++" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-      <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img alt="Bash" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+      <img alt="Bash" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
+      <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+      <img alt="Arduino" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"/>
   </div>
 </details>
 
