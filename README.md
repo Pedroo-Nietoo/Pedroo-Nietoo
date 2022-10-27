@@ -95,6 +95,3 @@
   </div>
 </details>
 </div>
-
-<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg#gh-dark-mode-only"/>
-<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg#gh-light-mode-only"/>
