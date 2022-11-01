@@ -1,15 +1,15 @@
 <div align="center">
 <a href="https://linktr.ee/pedroonietoo"/>
-<img alt="Banner" height="250em" src="https://user-images.githubusercontent.com/102625628/188755512-b8969be6-8f7b-4bee-9714-0031932f1589.gif"/>
+<img alt="Banner" height="250em" src="https://user-images.githubusercontent.com/102625628/199233653-7275670e-124c-468c-945c-ea5b86610079.gif"/>
 </a>
 
 <br>
 <br>
 
 <a href="https://linktr.ee/pedroonietoo"/>
-<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3377D1,3377D1,009EE7&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,266BC1,3377D1&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
-<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009EE7,3377D1,3377D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,3377D1,266BC1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 </a>
 
 <br>
