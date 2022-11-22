@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://linktr.ee/pedroonietoo"/>
-<img alt="Banner" height="250em" src="https://user-images.githubusercontent.com/102625628/199255955-61f18498-8681-4255-b0f7-5e1e3ee31eff.gif"/>
+<img alt="Banner" height="250em" src="https://user-images.githubusercontent.com/102625628/203354720-50441593-4565-42aa-84e1-543ef329b807.png"/>
 </a>
 
 <br>
