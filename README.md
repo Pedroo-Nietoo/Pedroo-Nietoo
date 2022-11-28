@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://linktr.ee/pedroonietoo"/>
-<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=1A72D1&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=2A72D1&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
 <img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=2A72D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 </a>
