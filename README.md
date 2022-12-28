@@ -114,7 +114,7 @@
 <a href="https://br.linkedin.com/in/pedroo-nietoo">
     <img alt="LinkedIn link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="href="https://linktr.ee/pedroonietoo"">
+<a href="https://linktr.ee/pedroonietoo">
     <img alt=""Linktree link" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 </div>
