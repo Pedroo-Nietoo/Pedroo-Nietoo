@@ -1,12 +1,5 @@
 <div align="center">
 <a href="https://linktr.ee/pedroonietoo"/>
-<img alt="Wave banner" width="100%" src="https://user-images.githubusercontent.com/102625628/208782038-d77f8cab-027f-419e-9456-c961929d3c76.svg"/>
-</a>
-
-<br>
-<br>
-
-<a href="https://linktr.ee/pedroonietoo"/>
 <img height="185em%" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3A72D1,009BEA&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
 <img height="185em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009BEA,3A72D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
@@ -22,41 +15,50 @@
 
 
 <div align="center">
-<details>
-  <summary>
-    <h3>👨‍💻 Conhecimentos </h3>
-  </summary>
-  <p>Estudando</p>
-    <div style="display: block">
-      <img alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-      <br>
-      <br>
-      <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-      <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-      <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-      <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-      <img alt="Arduino" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"/>
-      <img alt="Bash" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
-    </div>
+  <details>
+    <summary>
+      <h3>👨‍💻 Estudando </h3>
+    </summary>
+      <div style="display: block">
+        <img alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+        <br>
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+        <img alt="SASS" src="https://img.shields.io/badge/Scss-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+        <br>
+        <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=14354C"/>
+        <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D"/>
+        <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/>
+        <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        <img alt="Git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30"/>
+      </div>
 </details>
 
   
   
 <details>
   <summary>
-    <h3>🖥 IDEs </h3>
+    <h3>🖥 IDEs e SOs </h3>
   </summary>
   <div style="display: block">
       <a href="https://colab.research.google.com"/>
-      <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117"/>
+      <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117">
       </a>
       <a href="https://netbeans.apache.org/">
-      <img height="30em" alt="NetBeans" src="https://img.shields.io/badge/NetBeans%208.2-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6/">         </a>
+      <img height="30em" alt="Apache NetBeans" src="https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6">
+      </a>
       <a href="https://code.visualstudio.com/">
       <img height="30em" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7"/>         </a>
       <a href="https://www.arduino.cc/">
-      <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+      <img height="30em" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
       </a>
+    <br>
+    <br>
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+      <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+      <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=557C94"/>
   </div>
 </details>
 
