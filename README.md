@@ -44,7 +44,7 @@
   </summary>
   <div style="display: block">
       <a href="https://colab.research.google.com"/>
-      <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117">
+      <img height="30em" alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=0D1117">
       </a>
       <a href="https://netbeans.apache.org/">
       <img height="30em" alt="Apache NetBeans" src="https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6">
