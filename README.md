@@ -1,10 +1,8 @@
 <div align="center">
-    <a href="https://linktr.ee/pedroonietoo" />
     <img height="185em%" alt="Estatísticas"
         src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3A72D1,009BEA&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
     <img height="185em" alt="Linguagens"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Minhas%20linguagens!&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009BEA,3A72D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
-    </a>
     <br>
     <sub>Tema do perfil: Dark default</sub>
 </div>
@@ -108,4 +106,15 @@
             </a>
         </div>
     </details>
+</div>
+<br>
+<br>
+<div align="center">
+<h3>💬 Contatos</h3>
+<a href="https://br.linkedin.com/in/pedroo-nietoo">
+    <img alt="LinkedIn link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="href="https://linktr.ee/pedroonietoo"">
+    <img alt=""Linktree link" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
 </div>
