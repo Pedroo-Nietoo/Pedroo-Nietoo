@@ -68,8 +68,6 @@
                 src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6" />
             <img alt="Ubuntu"
                 src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
-            <img alt="Kali Linux"
-                src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=557C94" />
         </div>
     </details>
     <details>
