@@ -1,10 +1,5 @@
 <div align="center">
-    <img height="185em" alt="Estatísticas"
-        src="https://github-readme-stats.vercel.app/api?username=Pedroo-Nietoo&show_icons=true&count_private=true&include_all_commits&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,3A72D1,009BEA&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
-    <img height="185em" alt="Linguagens dos repositórios"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=dracula&custom_title=Repositórios&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,009BEA,3A72D1&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=11&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
-    <br>
-    <sub>Tema do perfil: Dark default</sub>
+    <h3>Tema do perfil: Dark default</h3>
 </div>
 
 <hr>
@@ -15,18 +10,17 @@
             <h3>👨‍💻 Estudando </h3>
         </summary>
         <div style="display: block">
-            <img alt="Java" height="40px"
+            <img alt="Java"
                 src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-            <br>
             <img alt="HTML5"
                 src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
             <img alt="CSS3"
                 src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-            <img alt="SASS"
+            <img alt="SCSS"
                 src="https://img.shields.io/badge/Scss-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699">
             <img alt="JavaScript"
                 src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
-            <img alt="PostgreSQL"
+             <img alt="PostgreSQL"
                 src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" />
             <br>
             <img alt="Python"
@@ -108,11 +102,8 @@
 <br>
 <br>
 <div align="center">
-<h3>💬 Contatos</h3>
+<h3>💬 Contato</h3>
 <a href="https://br.linkedin.com/in/pedroo-nietoo">
-    <img alt="LinkedIn link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://linktr.ee/pedroonietoo">
-    <img alt=""Linktree link" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+    <img alt="Botão para ver meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
