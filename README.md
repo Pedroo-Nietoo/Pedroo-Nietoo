@@ -1,13 +1,18 @@
 # 💫 Sobre mim:
-💼 Atualmente trabalho como Jovem Aprendiz, sendo Programador Back-End na Intelbras<br>
-🧠 Aprendendo Java, JavaScript, HTML e CSS<br>
-💬 Fale comigo sobre programação, eletrônica e IoT! Adoro conversar<br>
-
+💼 Trabalho como Jovem Aprendiz, sendo Programador Back-End | Cursando o último ano do Curso Técnico em Desenvolvimento de Sistemas<br>
+🥉 Incubei a startup _TechMind_ em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI<br>
+🧠 Aprendendo Java - Full Stack, JavaScript - Back-End, HTML e CSS<br>
+💬 Fale comigo sobre programação, eletrônica e  IoT; adoro conversar!<br>
+🏐 Meus passatempos são estudos, vôlei, escotismo e a construção de projetos.
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroo-nietoo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedroo_nietoo/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Pedroo-Nietoo) 
+<br>
+<br>
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -27,6 +32,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br>
+<br>
 
 ### Artigos recentes:
 - [Automações residenciais incríveis para conhecer a cultura Maker](https://www.linkedin.com/pulse/automa%25C3%25A7%25C3%25B5es-residenciais-incr%25C3%25ADveis-para-conhecer-maker-pedro/?trackingId=BY5wCl%2FMQaeSuQrTzpJffw%3D%3D)
