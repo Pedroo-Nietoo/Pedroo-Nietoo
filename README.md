@@ -1,4 +1,4 @@
-# 🪐🌌 Sobre mim:
+# 🌌 Sobre mim:
 🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
 💼 Trabalho como Jovem Aprendiz, como Programador Back-End<br>
 🥉 Incubei a startup _TechMind_ em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI<br>
