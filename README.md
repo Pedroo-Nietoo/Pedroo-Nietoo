@@ -4,7 +4,7 @@
 🥉 Incubei a startup _TechMind_ em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI<br>
 🧠 Aprendendo Java (Full Stack), JavaScript (Back-End), HTML e CSS<br>
 💬 Fale comigo sobre programação, eletrônica ou quaisquer outros assuntos; adoro conversar!<br>
-👨🏻‍💻 Meus passatempos são:
+💻 Meus passatempos são:
 - estudos (📚)
 - vôlei (🏐)
 - escotismo (⚜)
