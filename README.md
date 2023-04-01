@@ -1,3 +1,11 @@
+<div align="center">
+  <h3>Olá, sou Pedro Nieto 👋</h3>
+  <h3>Desenvolvedor Full Stck Júnior em processo de aprendizagem</h3>
+  <h1></h1>
+  <img src="https://user-images.githubusercontent.com/102625628/229312597-a098765e-5925-4c23-8c00-36bb7426ce49.png"/>
+</div>
+
+
 # 🌌 Sobre mim:
 🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
 💼 Trabalho como Jovem Aprendiz, como Programador Back-End<br>
