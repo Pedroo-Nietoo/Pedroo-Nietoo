@@ -2,9 +2,10 @@
   <h3>Olá, sou Pedro Nieto 👋</h3>
   <h3>Desenvolvedor Full Stck Júnior em processo de aprendizagem</h3>
   <h1></h1>
-  <img src="https://user-images.githubusercontent.com/102625628/229312597-a098765e-5925-4c23-8c00-36bb7426ce49.png"/>
+  <img src="https://user-images.githubusercontent.com/102625628/229579516-61053fcc-f8e0-40b9-90ea-b3794849d86c.png"/>
 </div>
-
+<br>
+<br>
 
 # 🌌 Sobre mim:
 🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
@@ -15,6 +16,7 @@
 💻 Meus passatempos são:
 - estudos (📚)
 - vôlei (🏐)
+
 - escotismo (⚜)
 - construção de projetos (⚙).
 <br>
