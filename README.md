@@ -2,6 +2,8 @@
   <h3>Olá, sou Pedro Nieto 👋</h3>
   <h3>Desenvolvedor Full Stck Júnior em processo de aprendizagem</h3>
   <h1></h1>
+  <br>
+  <br>
   <img src="https://user-images.githubusercontent.com/102625628/229579516-61053fcc-f8e0-40b9-90ea-b3794849d86c.png"/>
 </div>
 <br>
