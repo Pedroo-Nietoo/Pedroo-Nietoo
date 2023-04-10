@@ -13,7 +13,7 @@
 🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
 💼 Trabalho como Jovem Aprendiz, como Programador Back-End<br>
 🥉 Incubei a startup _TechMind_ em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI<br>
-🧠 Aprendendo Java (Full Stack), JavaScript (Back-End), HTML e CSS<br>
+🧠 Aprendendo Java, JavaScript, Node.JS, Express.JS e outros<br>
 💬 Fale comigo sobre programação, eletrônica ou quaisquer outros assuntos; adoro conversar!<br>
 💻 Meus passatempos são:
 - estudos (📚)
