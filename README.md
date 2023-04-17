@@ -77,5 +77,6 @@
 <br>
 
 ## 📰 Artigos recentes:
+- [Impressão 3D: A revolução da produção](https://www.linkedin.com/pulse/impress%C3%A3o-3d-revolu%C3%A7%C3%A3o-da-produ%C3%A7%C3%A3o-pedro-henrique-nieto-da-silva/)
 - [Automações residenciais incríveis para conhecer a cultura Maker](https://www.linkedin.com/pulse/automa%25C3%25A7%25C3%25B5es-residenciais-incr%25C3%25ADveis-para-conhecer-maker-pedro/?trackingId=BY5wCl%2FMQaeSuQrTzpJffw%3D%3D)
 - [Desbravando a fronteira da Inteligência Artificial: O crescente uso no mercado e a complexa questão do plágio gerado por IA](https://www.linkedin.com/pulse/desbravando-fronteira-da-intelig%25C3%25AAncia-artificial-o-e-pedro/?trackingId=58x1wbTbQ1WA5mDSvy4vXA%3D%3D)
