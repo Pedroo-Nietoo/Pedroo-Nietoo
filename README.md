@@ -5,74 +5,62 @@
 <br>
 
 # 🌌 Sobre mim:
-🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
-💼 Trabalho como Jovem Aprendiz, como Programador Back-End<br>
+🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas | Java<br>
+💼 Trabalho como Jovem Aprendiz, como Programador Back-End na Intelbras<br>
 🥉 Incubei a startup _TechMind_ em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI<br>
-🧠 Aprendendo Java, JavaScript, Node.JS, Express.JS e outros<br>
-💬 Fale comigo sobre programação, eletrônica ou quaisquer outros assuntos; adoro conversar!<br>
-💻 Meus passatempos são:
-- estudos (📚)
-- vôlei (🏐)
+🧠 Aprendendo atualmente Java, TypeScript, Node.JS, Express.JS e outros<br>
+💬 Fale comigo sobre quaisquer assuntos; adoro conversar!<br>
 
-- escotismo (⚜)
-- construção de projetos (⚙).
-<br>
-<br>
+<details>
+  <summary><h3>🌐 Sociais:</h3></summary>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/pedroo-nietoo/)
+  [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/pedroo_nietoo/)
+  [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:pedronieto.2005@gmail.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Pedroo-Nietoo)
+</details>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroo-nietoo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo_nietoo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedronieto.2005@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pedroo-Nietoo)
-<br>
-<br>
-<br>
-<br>
+<details>
+  <summary><h3>💻 Tech Stack:</h3></summary>
+  
+  ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+  ![Android](https://img.shields.io/badge/android-0D1117.svg?style=for-the-badge&logo=android&logoColor=3DDC84)
+  ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![SASS/SCSS](https://img.shields.io/badge/SCSS-0D1117.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=2D79C7)
+  ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
+  ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+</details>
 
-## 💡 Plataformas de Prototipagem
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![MicroBit](https://img.shields.io/badge/micro:bit-07DA63?style=for-the-badge&logo=micro:bit&logoColor=white)
-<br>
-<br>
+<details>
+  <summary><h3>💡 Plataformas de Prototipagem:</h3></summary>
+  
+  ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)
+  ![MicroBit](https://img.shields.io/badge/micro:bit-0D1117?style=for-the-badge&logo=micro:bit&logoColor=07DA63)
+</details>
 
-## ✨ Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-<br>
-<br>
+<details>
+  <summary><h3>✨ Design:</h3></summary>
+  
+  ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
+  ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+  ![Blender](https://img.shields.io/badge/blender-0D1117.svg?style=for-the-badge&logo=blender&logoColor=%23F5792A)
+</details>
 
-## 💻 IDEs:
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-<br>
-<br>
-
-<br>
-<br>
-<div align="center">
-  <img alt="Gráfico" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedroo-Nietoo&theme=nord_dark"/>
-</div>
+<details>
+  <summary><h3>💻 IDEs:</h3></summary>
+  
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+  ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
+  ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
+  ![Google Colab](https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+</details>
 <br>
 <br>
 
