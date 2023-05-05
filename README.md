@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Olá, sou Pedro Nieto 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End Dev;Front-End Dev;Mobile Dev | Java;Técnico em DS;Entusiasta por estudos e tecnologia&font=Noto%20Sans&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=28" /></a>
+  
+  ![Banner dark](https://readme-typing-svg.demolab.com/?lines=Back-End%20Dev;Front-End%20Dev;Mobile%20Dev%20|%20Java;Técnico%20em%20DS;Entusiasta%20por%20estudos%20e%20tecnologia&font=Noto%20Sans&center=true&width=600&height=45&color=DDDDDD&vCenter=true&pause=1000&size=28#gh-dark-mode-only) 
 </div>
 <br>
 <br>
