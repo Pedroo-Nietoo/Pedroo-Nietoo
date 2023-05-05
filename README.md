@@ -14,7 +14,7 @@
 💬 Fale comigo sobre quaisquer assuntos; adoro conversar!<br>
 
 <details>
-  <summary><h3>🌐 Sociais:</h3></summary>
+  <summary><h2>🌐 Sociais:</h2></summary>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/pedroo-nietoo/)
   [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/pedroo_nietoo/)
@@ -23,7 +23,7 @@
 </details>
 
 <details>
-  <summary><h3>💻 Tech Stack:</h3></summary>
+  <summary><h2>💻 Tech Stack:</h2></summary>
   
   ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
   ![Android](https://img.shields.io/badge/android-0D1117.svg?style=for-the-badge&logo=android&logoColor=3DDC84)
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary><h3>💡 Plataformas de Prototipagem:</h3></summary>
+  <summary><h2>💡 Plataformas de Prototipagem:</h2></summary>
   
   ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary><h3>✨ Design:</h3></summary>
+  <summary><h2>✨ Design:</h2></summary>
   
   ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
   ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary><h3>💻 IDEs:</h3></summary>
+  <summary><h2>💻 IDEs:</h2></summary>
   
   ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
   ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
