@@ -43,8 +43,8 @@
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white" />
-  <img alt="MicroBit" src="https://img.shields.io/badge/-MicroBit-07DA63?style=flat-square&logo=microbit&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MicroBit" src="https://img.shields.io/badge/-Micro:Bit-07DA63?style=flat-square&logo=microbit&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
@@ -55,7 +55,7 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry%20pi&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-hotpink?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="SCSS" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express&logoColor=white" />
+  <img alt="SCSS" src="https://img.shields.io/badge/-ExpressJs-303030?style=flat-square&logo=express&logoColor=white" />
 </div>
 
 <br>
