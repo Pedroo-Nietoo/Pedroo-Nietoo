@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Olá, sou Pedro Nieto 👋</h1>
-  <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Back-End%20Dev;Front-End%20Dev;Mobile%20Dev%20|%20Java;Técnico%20em%20DS;Entusiasta%20por%20estudos%20e%20tecnologia&font=Noto%20Sans&center=true&width=600&height=45&color=DDDDDD&vCenter=true&pause=1000&size=28">
-  <br>
+  <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20sou%20Pedro%20Nieto%20👋;Back-End%20Dev%20💾;Front-End%20Dev%20✨;Mobile%20Dev%20|%20Java%20📱;UX/UI%20Designer%20👤;Técnico%20em%20DS;Entusiasta%20por%20estudos%20e%20tecnologia&font=Noto%20Sans&center=true&width=600&height=45&color=DDDDDD&vCenter=true&pause=1000&size=30">
+  <hr width="60%">
   <a href="https://www.linkedin.com/in/pedroo-nietoo/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
   </a>
