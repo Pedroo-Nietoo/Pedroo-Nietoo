@@ -43,7 +43,7 @@
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white" />
-  <img alt="MicroBit" src="https://img.shields.io/badge/-Micro:Bit-07DA63?style=flat-square&logo=microbit&logoColor=white" />
+  <img alt="MicroBit" src="https://img.shields.io/badge/-MicroBit-07DA63?style=flat-square&logo=microbit&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white" />
