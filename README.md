@@ -46,11 +46,11 @@
   <img alt="MicroBit" src="https://img.shields.io/badge/-MicroBit-07DA63?style=flat-square&logo=microbit&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white" />
+  <img alt="Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry%20pi&logoColor=white" />
