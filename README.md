@@ -21,7 +21,7 @@
 <p>🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas | Java</p>
 <p>💼 Trabalho como Jovem Aprendiz, como Programador Back-End na Intelbras</p>
 <p>🥉 Incubei a startup <i>TechMind</i> em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI</p>
-<p>🧠 Aprendendo atualmente Java, TypeScript, NodeJS, ExpressJS, NestJS e outros</p>
+<p>🧠 Aprendendo atualmente Java, JavaScript, TypeScript, NestJS, Prisma e outros</p>
 <p>📝 Eu <del>regularmente</del> escrevo artigos no meu <a href="https://www.linkedin.com/in/pedroo-nietoo/">LinkedIn</a>!</p>
 
 <br>
