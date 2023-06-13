@@ -53,7 +53,6 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry%20pi&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-hotpink?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="SCSS" src="https://img.shields.io/badge/-ExpressJs-303030?style=flat-square&logo=express&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0B3147?style=flat-square&logo=prisma&logoColor=white" />
 </div>
 
