@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de Pedroo-Nieto" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=github_dark&langs_count=14&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de Pedroo-Nieto" align="left" />
 
 <div>
 <h1>🧠 Meu Tech Stack</h1>
