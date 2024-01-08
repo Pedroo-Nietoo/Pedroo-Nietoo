@@ -3,23 +3,9 @@
 
 ###
 
-<div align="left">
-  <a href="https://discordapp.com/channels/@me/705496526289371208">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pedroo-nietoo/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.instagram.com/pedroo_nietoo/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
-  </a>
-  <a href="mailto:pedronieto.2005@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.youtube.com/@Pedroo-Nietoo">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
-  </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Nieto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-nietoo/)](https://www.linkedin.com/in/pedroo-nietoo/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedronieto.2005@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronieto.2005@gmail.com)](mailto:pedronieto.2005@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-pedroonietoo-0077B5?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/channels/@me/705496526289371208)](https://discordapp.com/channels/@me/705496526289371208)
 
 <br>
 
@@ -94,12 +80,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/react-native-1-1024x821.png" height="40" alt="react native logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="35" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
