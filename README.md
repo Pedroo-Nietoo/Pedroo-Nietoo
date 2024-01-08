@@ -1,23 +1,23 @@
-<h1 align="center">Hey 👋 I'm Pedro Nieto</h1>
-<p align="center">A passionate Backend developer from Brazil!</p>
+<h1 align="left">Hey 👋 I'm Pedro Nieto</h1>
+<p align="left">A passionate Backend developer from Brazil!</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discordapp.com/channels/@me/705496526289371208">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
   </a>
   <a href="https://www.linkedin.com/in/pedroo-nietoo/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
   <a href="https://www.instagram.com/pedroo_nietoo/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
   </a>
   <a href="mailto:pedronieto.2005@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
   <a href="https://www.youtube.com/@Pedroo-Nietoo">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/>
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
   </a>
 </div>
 
