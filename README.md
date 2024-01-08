@@ -1,71 +1,105 @@
+<h1 align="center">Hey 👋 I'm Pedro Nieto</h1>
+<p align="center">A passionate Backend developer from Brazil!</p>
+
+###
+
 <div align="center">
+  <a href="https://discordapp.com/channels/@me/705496526289371208">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+  </a>
   <a href="https://www.linkedin.com/in/pedroo-nietoo/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://www.instagram.com/pedroo_nietoo/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="mailto:pedronieto.2005@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <a href="https://www.youtube.com/@Pedroo-Nietoo">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/>
   </a>
 </div>
 
 <br>
-<br>
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+    🔭 I’m working as Backend software developer<br>
+    🌱 I'm currently learning Spring Boot and Kotlin (for Mobile development)<br>
+    💬 Ask me about anything! I love a good talk<br>
+    🎯 My goals are to learn many things and gain experience so I can continue improving!<br>
+    📝 I <s>regularly</s> write articles on LinkedIn<br>
+    ⚡ In my free time I like to make projects and play volleyball
+</p>
+
+
 <br>
 
-<h1>🌌 Sobre mim:</h1> 
-<p>🎓 Cursando o último ano do Ensino Médio Técnico em Desenvolvimento de Sistemas | Java e JavaScript</p>
-<p>💼 Trabalho como Jovem Aprendiz | Programador Back-End na Intelbras</p>
-<p>🥉 Incubei a startup <i>TechMind</i> em 2021, chegando em 3° lugar na etapa estadual do campeonato Inova SENAI</p>
-<p>🧠 Aprendendo atualmente Java, JavaScript, TypeScript, NestJS, Prisma e outros</p>
-<p>📝 Eu <del>regularmente</del> escrevo artigos no meu <a href="https://www.linkedin.com/in/pedroo-nietoo/">LinkedIn</a>!</p>
+<h2 align="left">🛠 Languages and tools</h2>
 
-<br>
-<br>
-<br>
-<br>
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=github_dark&langs_count=14&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de Pedroo-Nieto" align="left" />
+<h3 align="left">Backend Techs</h3>
 
-<div>
-<h1>🧠 Meu Tech Stack</h1>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-07DA63?style=flat-square&logo=swagger&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry%20pi&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0B3147?style=flat-square&logo=prisma&logoColor=white" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/Docker/2496ED" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/Swagger/72B545" height="35" alt="swagger logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="35" alt="jwt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<h2>📰 Artigos recentes:</h2> 
-<ul>
-  <a href="https://www.linkedin.com/pulse/desbravando-fronteira-da-intelig%25C3%25AAncia-artificial-o-e-pedro/?trackingId=58x1wbTbQ1WA5mDSvy4vXA%3D%3D"><li>Desbravando a fronteira da Inteligência Artificial: O crescente uso no mercado e a complexa questão do plágio gerado por IA</li></a>
-  <a href="https://www.linkedin.com/pulse/automa%25C3%25A7%25C3%25B5es-residenciais-incr%25C3%25ADveis-para-conhecer-maker-pedro/?trackingId=BY5wCl%2FMQaeSuQrTzpJffw%3D%3D"><li>Automações residenciais incríveis para conhecer a cultura Maker</li></a>
-  <a href="https://www.linkedin.com/pulse/impress%C3%A3o-3d-revolu%C3%A7%C3%A3o-da-produ%C3%A7%C3%A3o-pedro-henrique-nieto-da-silva/"><li>Impressão 3D: A revolução da produção</li></a>
-</ul>
+<h3 align="left">Frontend & Mobile Techs</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/react-native-1-1024x821.png" height="40" alt="react native logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="35" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+</div>
