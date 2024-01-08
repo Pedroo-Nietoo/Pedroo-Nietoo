@@ -65,6 +65,7 @@
 
 <h3 align="left">Frontend & Mobile Techs</h3>
 
+
 ###
 
 <div align="left">
@@ -79,7 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/react-native-1-1024x821.png" height="40" alt="react native logo"  />
+  <img width="12" />
+  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/react-native-1-1024x821.png" height="45" alt="react native logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
