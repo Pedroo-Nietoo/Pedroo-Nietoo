@@ -15,7 +15,7 @@
 
 <p align="left">
     🔭 I’m working as Backend software developer<br>
-    🌱 I'm currently learning Spring Boot and Kotlin (for Mobile development)<br>
+    🌱 I'm currently learning Spring Boot<br>
     💬 Ask me about anything! I love a good talk<br>
     🎯 My goals are to learn many things and gain experience so I can continue improving!<br>
     📝 I <s>regularly</s> write articles on LinkedIn<br>
