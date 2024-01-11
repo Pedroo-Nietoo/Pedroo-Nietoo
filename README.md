@@ -3,9 +3,9 @@
 
 ###
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Nieto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-nietoo/)](https://www.linkedin.com/in/pedroo-nietoo/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedronieto.2005@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronieto.2005@gmail.com)](mailto:pedronieto.2005@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-pedroonietoo-0077B5?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/channels/@me/705496526289371208)](https://discordapp.com/channels/@me/705496526289371208)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Nieto-006F53?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-nietoo/)](https://www.linkedin.com/in/pedroo-nietoo/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedronieto.2005@gmail.com-006F53?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronieto.2005@gmail.com)](mailto:pedronieto.2005@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-pedroonietoo-006F53?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/channels/@me/705496526289371208)](https://discordapp.com/channels/@me/705496526289371208)
 
 <br>
 
