@@ -34,31 +34,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/JavaScript" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/TypeScript" height="35" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="35" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/express" height="35" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/Nestjs" height="35" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/jest" height="35" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/Docker/2496ED" height="35" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/Docker" height="35" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/spring" height="35" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/Swagger/72B545" height="35" alt="swagger logo"  />
+  <img src="https://cdn.simpleicons.org/Swagger" height="35" alt="swagger logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="35" alt="jwt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql" height="35" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/Ubuntu" height="35" alt="ubuntu logo"  />
 </div>
 
 <br>
@@ -69,19 +69,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5" height="35" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+   <img src="https://cdn.simpleicons.org/JavaScript" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/TypeScript" height="35" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/Sass" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/react-native-1-1024x821.png" height="45" alt="react native logo"  />
+  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/react-native-1-1024x821.png" height="40" alt="react native logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/figma" height="35" alt="figma logo"  />
 </div>
