@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pedronieto.2005@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronieto.2005@gmail.com)](mailto:pedronieto.2005@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0077B5?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/channels/@me/705496526289371208)](https://discordapp.com/channels/@me/705496526289371208)
 
-I'm Pedro Nieto, a passionate Fullstack developer from Santa Catarina, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brasil!
+I'm Pedro Nieto, a passionate _Fullstack developer_ from Santa Catarina, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brasil!
 
 I'm currently focused on improving my skills in backend development, particularly in **Node.js** and **NestJS**. My goal is to become an expert in building robust and scalable server-side applications using these technologies.
 
