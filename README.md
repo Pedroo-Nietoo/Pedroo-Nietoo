@@ -1,5 +1,4 @@
 # Hey, what's up? 👋
-> Get in touch:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-nietoo/)](https://www.linkedin.com/in/pedroo-nietoo/)
 [![Gmail Badge](https://img.shields.io/badge/-pedronieto.2005@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronieto.2005@gmail.com)](mailto:pedronieto.2005@gmail.com)
@@ -7,11 +6,11 @@
 
 I'm Pedro Nieto, a passionate _Fullstack developer_ from Santa Catarina, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brasil!
 
-I'm currently focused on improving my skills in backend development, particularly in **Node.js** and **NestJS**. My goal is to become an expert in building robust and scalable server-side applications using these technologies.
+Passionate about programming since my first encounter, I've found my calling in the field, continually striving to enhance my expertise. Presently, my focal point lies in refining my backend development skills, specifically in **Node.js** and **NestJS**. My aspiration is to master building resilient and scalable server-side applications with these cutting-edge technologies.
 
 </br>
 
-## My Tech Stack 
+## Tools 📦 
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
