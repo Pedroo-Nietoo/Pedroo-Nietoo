@@ -20,7 +20,7 @@ Passionate about programming since my first encounter, I've found my calling in 
 
 **Backend Development:** `TypeScript` `Express` `Fastify` `Node.js` `Nest.js` `Next.js` `Spring`
 
-**Database and ORM** `PostgreSQL` `MySQL` `PrismaORM`
+**Database and ORM:** `PostgreSQL` `MySQL` `PrismaORM`
  
 **Version Control:** `Git` `GitHub` `GitLab` `Bitbucket`
 
