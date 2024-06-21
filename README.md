@@ -16,17 +16,17 @@ Passionate about programming since my first encounter, I've found my calling in 
  
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `Saas` `JavaScript` `TypeScript` `React` `Figma`
+**Frontend Development:** `React.js` `Next.js` `Angular.js` `Bootstrap` `Tailwind` `Sass` 
 
-**Backend Development:** `TypeScript` `Express` `Fastify` `Node.js` `Nest.js` `Next.js` `Spring`
+**Backend Development:** `TypeScript` `Express` `Fastify` `Node.js` `NestJS` `Spring`
 
-**Database and ORM:** `PostgreSQL` `MySQL` `PrismaORM`
+**Database and ORM:** `PostgreSQL` `MySQL` `PrismaORM` `TypeORM`
  
 **Version Control:** `Git` `GitHub` `GitLab` `Bitbucket`
 
-**Testing:** `Jest` `Cypress` `Postman` `Insomnia`
+**Testing:** `Jest` `Cypress` `JUnit`
 
-**Others:** `Swagger` `Compodoc` `Bash` `Scrum` `Atlassian` 
+**Others:** `Swagger` `Compodoc` `Bash` `Scrum` `Postman` `Insomnia`
  
 </br>
 
