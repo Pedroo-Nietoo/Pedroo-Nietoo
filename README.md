@@ -1,4 +1,6 @@
 # Hey, what's up? 👋🏻
+![Banners - LinkedIn](https://github.com/user-attachments/assets/662f7ee0-c00d-41d7-b627-ceb8878f6071)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4773BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-nietoo/)](https://www.linkedin.com/in/pedroo-nietoo/)
 [![Gmail Badge](https://img.shields.io/badge/-pedronieto.2005@gmail.com-4773BC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronieto.2005@gmail.com)](mailto:pedronieto.2005@gmail.com)
