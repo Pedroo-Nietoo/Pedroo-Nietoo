@@ -11,4 +11,4 @@ Passionate about programming and changing people's lives through technology. Spe
 
 - Check out my [VSCode Configuration](https://gist.github.com/Pedroo-Nietoo/a20bf9b1ee512aeb97421f3bd5b7eb29) for development optimization.
 - In my [LinkedIn](https://www.linkedin.com/in/pedroo-nietoo/), I share my achievements and certificates.
-- For a quick response, DM me or send me an [e-mail](mailto:pedronieto.2005@gmail.com).
+- For a quick response, send me an [e-mail](mailto:pedronieto.2005@gmail.com).
