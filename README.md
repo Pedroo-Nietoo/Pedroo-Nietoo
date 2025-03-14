@@ -14,7 +14,7 @@ Additionally, I have explored the world of Open-Source development, creating NPM
 ---
 
 #### Frontend Development  
-`Angular`,`React`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `Saas`, `Bootstrap`, `Material Icon`.
+`Angular`,`React`, `React Native`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `Saas`, `Bootstrap`, `Material Icon`.
 
 #### Backend Development  
 `JavaScript`, `Node.js`, `Express`, `TypeScript`, `Nest.js`, `Java`, `Spring Boot` 
