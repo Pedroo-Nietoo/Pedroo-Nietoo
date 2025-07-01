@@ -17,7 +17,7 @@ Additionally, I have explored the world of Open-Source development, creating NPM
 `Angular`,`React`, `React Native`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `Saas`, `Bootstrap`, `Material Icon`.
 
 #### Backend Development  
-`JavaScript`, `Node.js`, `Express`, `TypeScript`, `Nest.js`, `Java`, `Spring Boot` 
+`Java`, `Spring Framework` , `JavaScript`, `Node.js`, `Express`, `TypeScript`, `Nest.js`
 
 #### Databases, Query Builders e ORMs  
 `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `Knex`, `TypeORM`, `PrismaORM`  
