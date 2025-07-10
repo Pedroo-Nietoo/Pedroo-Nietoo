@@ -5,25 +5,7 @@
 
 Enthusiast of the best backend & web development technologies.
 
-I'm a Full-Stack Developer specialized in Angular, React, Java, Spring Boot, JavaScript, TypeScript, Node.js, Express, NestJS, Docker, TypeORM, and PrismaORM, with experience in Mobile development with React Native, and Cloud with AWS. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java and Spring Boot, PHP and Zend, TypeScript, Node.js, and NestJS.
-
-As an example of solutions, I have developed a Canary Testing API, an inventory management system integrated with purchase orders, file-sharing systems with permission-based access across multiple channels (email, WhatsApp, and system platform integration), digital document signing with certified signatures, and recently, the integration and development of Artificial Intelligence (AI) modules - such as medical recommendations using AI integrated with databases - to reduce user effort and facilitate daily tasks!
-
-Additionally, I have explored the world of Open-Source development, creating NPM packages and IDE extensions, combining creativity and technical knowledge to build useful and interactive projects.
-
----
-
-#### Frontend Development  
-`Angular`,`React`, `React Native`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `Saas`, `Bootstrap`, `Material Icon`.
-
-#### Backend Development  
-`Java`, `Spring Framework` , `JavaScript`, `Node.js`, `Express`, `TypeScript`, `Nest.js`
-
-#### Databases, Query Builders e ORMs  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `Knex`, `TypeORM`, `PrismaORM`  
-
-#### Infrastructure & Cloud | Testing  
-`AWS (Amazon Web Services)`, `Docker` | `JUnit`, `Jest`, `Vitest`
+I'm a Full-Stack Developer with experience in Angular, React, Java, Spring, TypeScript, Node.js, NestJS, Docker, TypeORM, and PrismaORM. I also have experience in Mobile development with React Native, and Cloud with AWS. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java and Spring, PHP and Zend, TypeScript, Node.js, and NestJS.
 
 ---
 
