@@ -5,7 +5,7 @@
 
 Enthusiast of the best backend & web development technologies.
 
-I'm a Full-Stack Developer with experience in Angular, React, Java, Spring, TypeScript, Node.js, NestJS, Docker, TypeORM, and PrismaORM. I also have experience in Mobile development with React Native, and Cloud with AWS. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java and Spring, PHP and Zend, TypeScript, Node.js, and NestJS.
+I'm a Full-Stack Developer with experience in AA. With over 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java, Spring, TypeScript, Node.js, NestJS, Angular and others.
 
 <br>
 
