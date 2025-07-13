@@ -7,6 +7,12 @@ Enthusiast of the best backend & web development technologies.
 
 I'm a Full-Stack Developer with experience in AA. With over 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java, Spring, TypeScript, Node.js, NestJS, Angular and others.
 
+---
+
+- Check out my [VSCode Configuration](https://gist.github.com/Pedroo-Nietoo/a20bf9b1ee512aeb97421f3bd5b7eb29) for development optimization;
+- In my [LinkedIn](https://www.linkedin.com/in/pedroo-nietoo/), I share my achievements and certificates;
+- For a quick response, send me an [e-mail](mailto:pedronieto.2005@gmail.com);
+  
 <br>
 
 ## 💻 Tech-Stack
@@ -41,8 +47,4 @@ I'm a Full-Stack Developer with experience in AA. With over 3 years of experienc
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
-- Check out my [VSCode Configuration](https://gist.github.com/Pedroo-Nietoo/a20bf9b1ee512aeb97421f3bd5b7eb29) for development optimization;
-- In my [LinkedIn](https://www.linkedin.com/in/pedroo-nietoo/), I share my achievements and certificates;
-- For a quick response, send me an [e-mail](mailto:pedronieto.2005@gmail.com);
