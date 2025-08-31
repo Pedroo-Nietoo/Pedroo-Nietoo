@@ -5,7 +5,7 @@
 
 Enthusiast of the best backend & web development technologies.
 
-I'm a Full-Stack Developer with experience in AA. With over 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java, Spring, TypeScript, Node.js, NestJS, Angular and others.
+I'm a Full-Stack Developer with over 3 years of experience. I've had the opportunity to work on various exciting projects and explore different technologies. Throughout my professional journey, I have developed efficient, innovative, and creative solutions, always focusing on performance and usability using technologies such as Java, Spring, TypeScript, Node.js, NestJS, Angular and others.
 
 ---
 
