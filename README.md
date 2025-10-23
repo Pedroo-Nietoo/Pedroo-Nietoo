@@ -3,10 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroo-nietoo/)
 [![Gmail](https://img.shields.io/badge/pedronieto.2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedronieto.2005@gmail.com)
 
+<br>
 
 Currently, I'm a **Mid-level Full-Stack Software Developer** at [Capgemini](https://www.capgemini.com/), specializing in backend development. I contribute to the design, development, and maintenance of multiple microservices and Micro Front-ends, ensuring performance and scalability while following the Hexagonal Architecture pattern along with software engineering best practices.
 
 In the past, I've had the opportunity to develop software in a variety of environments — from [security, connectivity, and energy companies](https://www.intelbras.com/) to [clinical management software companies](https://essentiagroup.global/). I also developed some NPM packages and contributed to open-source projects. I usually showcase my work on my GitHub.
+
+<br>
 
 # 💻 Tech-Stack
 
