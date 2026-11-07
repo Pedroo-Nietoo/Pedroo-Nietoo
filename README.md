@@ -1,14 +1,15 @@
 # 👋 Hi there, I'm Pedro Nieto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/pedroo-nietoo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroo-nietoo/)
 [![Gmail](https://img.shields.io/badge/pedronieto.2005@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:pedronieto.2005@gmail.com)
 
-I'm a Software Developer with a proven track record in the financial and healthcare sectors. I specialize in designing and evolving scalable architectures and cloud-based solutions. My focus is on solving complex business challenges by building robust, end-to-end systems, always prioritizing technical excellence and engineering best practices.
+Full-Stack Software Engineer with over four years of experience building backend and full-stack systems that hold under pressure across the **financial**, **healthcare**, and **telecom** sectors. Currently at **Capgemini** working on mission-critical banking services handling 120,000+ daily transactions, where my focus is distributed systems, event-driven microservices, clean architecture, and practical AI engineering.
 
-- ⚙️ Back-End & Architecture: Java 17, Spring (Boot, Data), Node.js, NestJS, Express, Microservices, Hexagonal Architecture, REST APIs, SOLID, OOP.
-- ☁️ Cloud, Messaging & DevOps: AWS (EC2, S3, SQS, CloudFront, CloudWatch, Lambda, API Gateway, DynamoDB), Apache Kafka, Docker, CI/CD, Maven, SonarQube.
-- 💾 Databases: PostgreSQL, MongoDB, MySQL, PrismaORM, TypeORM.
-- ✅ Testing & Monitoring: JUnit 5, Mockito, Jest, Cypress, Unit & E2E Testing, Swagger, Grafana, Prometheus.
-- 🎨 Front-End: TypeScript, JavaScript, Angular, React, React Native, Bootstrap, SASS, TailwindCSS.
+- ⚙️ **Back-End & Architecture:** Java, Spring Boot, Spring Data, Node.js, NestJS, Express, Microservices, Hexagonal Architecture, Event-Driven Design, DDD, Distributed Systems, REST APIs, SOLID.
+- ☁️ **Cloud, Messaging & DevOps:** AWS (EC2, S3, SQS, CloudFront, CloudWatch, Lambda, API Gateway, DynamoDB), Apache Kafka (DLQ & Retry Policies), Docker, GitHub Actions, Jenkins, CI/CD, SonarQube.
+- 💾 **Data & Caching:** PostgreSQL, MongoDB, MySQL, Redis, PrismaORM, TypeORM, Knex.js.
+- ✅ **Testing & Observability:** JUnit, Mockito, Jest, Cypress, Unit & E2E Testing, Canary Testing, Swagger (OpenAPI), Grafana, Prometheus, Dynatrace.
+- 🎨 **Front-End & Mobile:** TypeScript, JavaScript, Angular, Micro-Frontends, React, Next.js, Swift & SwiftUI, Storybook, TailwindCSS, SASS, Bootstrap.
+- 🤖 **AI Engineering:** Spec-Driven Development (SDD) coding & testing agents, production AI integrations & recommendation modules.
 
-I’m always open to connecting and discussing software development or emerging technologies. Let’s connect!
+I’m always open to connecting and discussing distributed systems, software architecture, or developer tooling. Let’s connect!
